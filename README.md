@@ -4,11 +4,11 @@ This repository is for the paper, **Internally Induced Branch-and-Cut Accelerati
 
 # Change Log
 
-## 2021-10-28
+**2021-10-28**
 
 - Initial the repository and upload a table
 
-## 2021-10-30
+**2021-10-28**
 
 - Upload a figure
 - Rename tables and figures
