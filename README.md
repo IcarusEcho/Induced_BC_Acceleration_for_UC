@@ -12,6 +12,7 @@ This repository is for the paper, **Internally Induced Branch-and-Cut Accelerati
 
 - Upload a figure
 - Rename tables and figures
+- Update README
 
 # Contact
 
